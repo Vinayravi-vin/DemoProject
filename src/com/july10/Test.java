@@ -7,5 +7,6 @@ public class Test {
 		System.out.println("hi");
 		System.out.println("vini");
 		System.out.println("vidy");
+		System.out.println("priy");
 	}
 }
